@@ -2,8 +2,6 @@ The Public 2021 Stack Overflow Developer Survey Results
 
 Description:
 
-
-
 The enclosed data set is the complete, cleaned results of the 2021 Stack Overflow Developer Survey. Free response submissions and personally-identifying information have been removed from the results to protect the privacy of respondents. There are three files besides this README:
 
 1. survey_results_public.csv - CSV file with main survey results, one respondent per row and one column per answer
