@@ -40,7 +40,7 @@ This is my first experience in this field. I am interested in knowing how it wor
 ### 3.File Descriptions
 
 A notebook:
-- Data Science course-write blog.ipnynb. 
+- Data Science course-write a blog.ipnynb. 
 
 The notebook includes 3 questions  answered inside
 
